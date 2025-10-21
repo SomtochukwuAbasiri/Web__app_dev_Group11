@@ -10,4 +10,4 @@ GROUP MEMBERS
 4. Kencharles Onyebuchi 23/2251  DON-KENO
 5. Nwonye Joshua 23/0857  JoJo-214
 6. Stephan Nakpodia 23/2376  Stephantheboss
-7. Dominic Peace 23/1112  Lafrances17
+7. Dominic Peace 23/2516  Lafrances17
