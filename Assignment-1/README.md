@@ -11,3 +11,9 @@ GROUP MEMBERS
 5. Nwonye Joshua 23/0857  JoJo-214
 6. Stephan Nakpodia 23/2376  Stephantheboss
 7. Dominic Peace udhedhe 23/2516  Lafrances17
+
+
+
+1. My name is Abasiri Somtochukwu Francis matric no 23/1676, i did the db.php part for the shop inventory which is the first part of the work now this handled the critical backend functionality related to managing product data and processing updates within the inventory system. This includes tasks such as adding new products, updating product details, and managing stock quantities. The script also validates inputs to ensure data integrity and interacts with the database to reflect real-time inventory changes, which are essential for accurate sales tracking and reporting.
+
+2. My name is Nwonye Joshua matric no 23/0857, i worked on the index.php part i couldn't push it with my laptop cause mine has issues but i worked on it on my teammates laptop which is somto own, so this file serves as the the main dashboard and user interface for the Inventory and Sales Management system. This page will display an overview of current inventory status, recent sales activities, and key performance metrics. It also includes navigation elements to access different parts of the system such as product listings, sales reports, and user management. The file will integrate the frontend components with backend data, providing users with a smooth and interactive experience to monitor and control inventory operations.
