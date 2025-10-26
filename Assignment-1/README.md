@@ -23,3 +23,5 @@ GROUP MEMBERS
 4. My name is Jesubanjo Oluwaseun with matric no 23/3802, i worked on the sell_product.php part, this makes it possible to sell an inventory by accessing the add_product.php and with a click on the sell button, it sells the product that appears on the inventory
 
 5. My name is Stephan Nakpodia, with matric no 23/2376 i worked on the summary.php part, this makes it possible to provide a quick overview of the system's key prformance metrics, allowing users(such as managers or admin's) to monitor sales trends, stock levels, and overall business performance in real-time.
+
+6. My nmae is AGBOTIA ONYINYE SIMPHIWE 23/1130 Vxyghn i worked on the style.css part 
