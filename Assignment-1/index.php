@@ -17,6 +17,11 @@ $results = $stmt->get_result();
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
+    <div class="theme-toggle">
+        <input type="checkbox" id="theme-switch">
+        <label for="theme-switch" onclick="document.body.classList.toggle('dark-theme')"></label>
+    </div>
+
 <div class="container">
 
     <h1>Product Inventory</h1>
