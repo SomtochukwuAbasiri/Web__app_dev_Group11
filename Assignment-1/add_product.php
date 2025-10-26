@@ -31,6 +31,11 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
+    <div class="theme-toggle">
+        <input type="checkbox" id="theme-switch">
+        <label for="theme-switch" onclick="document.body.classList.toggle('dark-theme')"></label>
+    </div>
+
 <div class="container">
 
     <h1> Add or Update Product</h1>
